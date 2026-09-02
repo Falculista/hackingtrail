@@ -6,8 +6,6 @@
 [![HTML](https://img.shields.io/badge/Built%20with-HTML%2FCSS%2FJS-orange.svg)]()
 [![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue.svg)]()
 
-![Preview da Trilha do Hacker](https://via.placeholder.com/900x480/0b0d14/1ecfa6?text=Trilha+do+Hacker)
-
 ---
 
 ## Sobre o projeto
