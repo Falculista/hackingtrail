@@ -71,7 +71,7 @@ Não é necessário servidor, instalação ou configuração.
 4. Após ~1 minuto, o site estará disponível em:
 
 ```
-https://seu-usuario.github.io/trilha-hacker
+https://falculista.github.io/trilha-hacker
 ```
 
 ---
