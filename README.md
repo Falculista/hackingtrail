@@ -54,7 +54,7 @@ O projeto é um único arquivo HTML autocontido, sem dependências externas, bac
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/trilha-hacker.git
+git clone https://github.com/Falculista/hackingtrail.git
 
 # Abra o arquivo no browser
 open index.html
