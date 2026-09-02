@@ -54,7 +54,7 @@ O projeto é um único arquivo HTML autocontido, sem dependências externas, bac
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Falculista/hackingtrail.git
+git clone https://github.com/falculista/hackingtrail.git
 
 # Abra o arquivo no browser
 open index.html
@@ -71,7 +71,7 @@ Não é necessário servidor, instalação ou configuração.
 4. Após ~1 minuto, o site estará disponível em:
 
 ```
-https://falculista.github.io/trilha-hacker
+https://falculista.github.io/hackingtrail
 ```
 
 ---
@@ -79,7 +79,7 @@ https://falculista.github.io/trilha-hacker
 ## Estrutura do projeto
 
 ```
-trilha-hacker/
+hackingtrail/
 ├── index.html   # Aplicação completa (HTML + CSS + JS inline)
 ├── LICENSE      # MIT License
 └── README.md    # Este arquivo
